@@ -1,0 +1,6 @@
+{
+  "name": "Cyber-Hideout",
+  "description": "Virtual Theater: Privacy-First Social Shelter eliminating public stress and anxiety",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
